@@ -79,3 +79,12 @@ h6 {
 	right: 0;
 	left: 0;
 }
+
+.footer {
+    background-color: rgb(156, 156, 156);
+}
+
+.footer-content {
+    padding: 30px 0;
+    color: rgb(209, 209, 209);
+}
