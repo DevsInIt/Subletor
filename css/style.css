@@ -18,10 +18,15 @@ section.gap {
     color: #fff !important;
 }
 
+.profile-description {
+    padding: 50px;
+}
+
+
 .animated {
     width: 100wh;
 	color: #fff;
-	background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+	background: linear-gradient(-45deg, rgb(66, 17, 24), rgb(14, 73, 236), #23A6D5, #23D5AB);
 	background-size: 400% 400%;
 	-webkit-animation: Gradient 15s ease infinite;
 	-moz-animation: Gradient 15s ease infinite;
